@@ -1,2 +1,2 @@
-# DL-Assignment-Early-Stoping
-implementation of Early Stoping
+# DL-Assignment-Early-Stopping
+implementation of Early Stopping
